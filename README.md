@@ -11,8 +11,9 @@ Cada exercício está em um arquivo separado para facilitar a execução e estud
 
 faculdadeSenac/
 │
-├─ Exerc01_ConcatenarNumeros.java \n
-├─ Exerc02_MediaNotas.java \n
+├─ Exerc01_ConcatenarNumeros.java
+
+├─ Exerc02_MediaNotas.java
 ├─ Exerc03_DescontoProduto.java
 ├─ Exerc04_ComissaoVendas.java
 ├─ Exerc05_ParcelamentoProduto.java
