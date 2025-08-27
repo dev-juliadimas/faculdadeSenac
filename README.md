@@ -11,8 +11,7 @@ Cada exercício está em um arquivo separado para facilitar a execução e estud
 
 faculdadeSenac/
 │
-├─ Exerc01_ConcatenarNumeros.java
-
+├─ 
 ├─ Exerc02_MediaNotas.java
 ├─ Exerc03_DescontoProduto.java
 ├─ Exerc04_ComissaoVendas.java
@@ -42,7 +41,7 @@ faculdadeSenac/
 
 ## Exercícios com Descrição
 
-1. **[Concatenar Números](./Exerc01_ConcatenarNumeros.java)**  
+1. **[Concatenar Números (Exerc01_ConcatenarNumeros.java)](./Exerc01_ConcatenarNumeros.java)**  
    Lê dois números inteiros do usuário e exibe os números concatenados como uma única string.
 
 2. **[Média de Notas](./Exerc02_MediaNotas.java)**  
