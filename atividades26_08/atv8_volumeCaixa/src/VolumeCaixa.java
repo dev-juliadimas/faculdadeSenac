@@ -19,5 +19,7 @@ public class VolumeCaixa {
                             "Profundidade: %.2f \n" +
                             "VOLUME      : %.2f"
                             , largura, altura, profundidade, volume);
+
+        sc.close();
     }
 }

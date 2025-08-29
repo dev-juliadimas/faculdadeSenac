@@ -3,19 +3,21 @@ import java.util.Scanner;
 public class Media {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double soma = 0,
-                media,
-                nota;
-        int i;
+        double nota1, nota2, nota3, soma, media;
 
-        for(i = 1; i <=3; i++){
-            System.out.printf("Me informe a nota %d:", i);
-            nota = sc.nextDouble();
+        System.out.print("Nota 01: ");
+        nota1 = sc.nextDouble();
+        System.out.print("Nota 02: ");
+        nota2 = sc.nextDouble();
+        System.out.print("Nota 03: ");
+        nota3 = sc.nextDouble();
 
-            soma = soma + nota;
-        }
+        soma = nota1 + nota2 + nota3;
         media = soma / 3;
 
-        System.out.printf("A média é: %.2f", media);
+        System.out.printf("MÉDIA: %.2f", media);
+
+        sc.close();
+
     }
 }

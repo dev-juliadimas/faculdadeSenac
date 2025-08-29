@@ -11,7 +11,6 @@ public class EnergiaPotencial {
         altura = sc.nextDouble();
 
         gravidade = 9.8;
-
         energia = massa * altura * gravidade;
 
         System.out.printf(  "massa           : %.2fkg\n" +

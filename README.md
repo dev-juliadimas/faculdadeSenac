@@ -67,3 +67,22 @@ Cada exercício está dentro de uma pasta separada para facilitar a organizaçã
 
 20. **[Sugestão de Senha (atividades26_08/atv20_nomeAno)](./atividades26_08/atv20_nomeAno)**  
     Gera uma sugestão de senha no formato `nome@ano` a partir do nome e ano de nascimento do usuário.
+
+21. **[Velocidade média da viagem (atividades26_08/atv21_velocidadeMedia)](./atividades26_08/atv21_velocidadeMedia)**  
+    Recebe a distância da viagem em kilometros e o tempo estimado da viagem em horas e retorna a velocidade média.
+	
+22. **[Número Anterior e Posterior (atividades26_08/atv22_numAnteriorPosterior)](./atividades26_08/atv22_numAnteriorPosterior)**  
+    Recebe um número inteiro e mostra o anterior e posterior.
+	
+23. **[ Troco nota de R$100,00(atividades26_08/atv23_troco100)](./atividades26_08/atv23_troco100)**  
+    Recebe o valor e retorna o valor do troco.
+	
+24. **[ Dólar para Real(atividades26_08/atv24_dolarReal)](./atividades26_08/atv24_dolarReal)**  
+    Recebe o dólar e converte o valor para real considerando a taxa fixa o câmbio.
+	
+25. **[ Arquivo e extensão(atividades26_08/atv25_arqExtensao)](./atividades26_08/atv25_arqExtensao)**  
+    Recebe o nome do arquivo e a extensão dele, mostra "nome.extensão"
+	
+26. **[ Arquivo do aluno (atividades26_08/atv26_arqAluno)](./atividades26_08/atv26_arqAluno)**  
+    Recebe o nome completo, 3 notas, número de faltas e carga horária da disciplina. 
+	Retorna o nome, a média com 2 casas decimais, percentual de presença e o arquivo: "CERTIFICADO_nome_média_presença.pdf.
