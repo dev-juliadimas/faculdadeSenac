@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;
-        int numAleatorio = (int) (Math.random() * 10);
+        int numAleatorio = (int) (Math.random() * 100);
 
         System.out.println("Tente adivinhar o número (0 a 9)!");
 
